@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Editor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/EditorState.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/History.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Main.java" afterDir="false" />
+    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="workspace.xml">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/DirectionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Transit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/TravelMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Walking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,9 +47,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.codeit.designpatterns.state" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
