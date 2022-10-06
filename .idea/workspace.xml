@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Bicycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/DirectionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Transit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/TravelMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/state/Walking.java" afterDir="false" />
+    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="States design patterns.">
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/ProductCollection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/memento/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +27,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.codeit.designpatterns.state" />
@@ -66,6 +61,14 @@
       <updated>1664939858565</updated>
       <workItem from="1664939860238" duration="931000" />
     </task>
+    <task id="LOCAL-00001" summary="States design patterns.">
+      <created>1664967370051</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664967370051</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +84,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="States design patterns." />
+    <option name="LAST_COMMIT_MESSAGE" value="States design patterns." />
   </component>
 </project>
