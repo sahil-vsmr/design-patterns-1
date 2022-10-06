@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="States design patterns.">
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/iterator/ProductCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/AESEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/DESEncryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
