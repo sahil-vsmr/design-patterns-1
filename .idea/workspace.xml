@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="States design patterns.">
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/AESEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/DESEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Encryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/template/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/template/OneWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/template/TwoWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/template/Window.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
