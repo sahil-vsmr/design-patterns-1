@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="States design patterns.">
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/AESEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/ChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/DESEncryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Encryption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/strategy/Main.java" afterDir="false" />
+    <list default="true" id="dd4169f0-b9b3-4ee8-a634-0c571a412e4e" name="Changes" comment="Template Design pattern">
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/Statusbar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/StockListView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codeit/designpatterns/observer/Subject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +82,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
